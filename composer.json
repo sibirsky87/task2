@@ -1,0 +1,15 @@
+{
+    "name": "sibirsky87/task2",
+    "description": "Task2", 
+    "authors": [
+        {
+            "name": "anton.baikov",
+            "email": "baikov87@gmail.com"
+        }
+    ], 
+    "autoload": {
+        "psr-4": {
+            "Application\\": "Application"
+        }
+    }
+}
